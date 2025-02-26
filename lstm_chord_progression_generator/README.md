@@ -1,5 +1,5 @@
 <h1 align="center">
-Rock Your LSTM
+LSTM Chord Progression Generator
 </h1>
 
 ---

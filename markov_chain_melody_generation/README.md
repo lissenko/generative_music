@@ -1,5 +1,5 @@
 <h1 align="center">
-Second order Markov chain
+Markov Chain Melody Generation
 </h1>
 
 <p align="center">

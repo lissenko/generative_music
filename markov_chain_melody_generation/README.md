@@ -1,9 +1,9 @@
 <h1 align="center">
-Markov Chain Melody Generation
+Markov Chain Melody Generator
 </h1>
 
 <p align="center">
-Implementation of a second order Markov chain in python.
+Implementation of a (n)-order Markov chain in python.
 </p>
 
 ---
